@@ -7,4 +7,4 @@ This is a simple Container Manager application built with React.
 - The Container Manager application allows users to manage containers with ease. 
 - It displays a list of containers and their status, and users can interact with each container.
 
-<img src="Screenshot.png" alt="Outpur Image">
+<img src="screenshot.png" alt="Outpur Image">
